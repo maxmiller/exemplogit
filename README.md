@@ -9,6 +9,6 @@ git checkout -b nomedabranch - criar a branch
 
 git checkout nomedabranch - ele só muda se a branch existir no servidor e o código estiver atualizado.
 
-
+Usando GITHUB Desktop
 
 # exemplogit
