@@ -2,8 +2,8 @@ Este é projeto de exemplo do git.
 
 git commit - salvar o que quero enviar para o servidor git (github, gitlab)
 
-git pull  - enviar os commits
-git push - baixa os commits do servidor
+git push  - enviar os commits
+git pull - baixa os commits do servidor
 
 git checkout -b nomedabranch - criar a branch
 
